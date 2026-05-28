@@ -1,8 +1,8 @@
 class Kevdots < Formula
   desc "Personal dotfiles installer — Alacritty + Zellij + LazyVim + Starship + Zsh"
   homepage "https://github.com/KevinDM15/KevDots"
-  url "https://github.com/KevinDM15/KevDots/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "2221b9259279346813f9718efb254b7ad90f52c6149d3de60fc50bd89076b2b4"
+  url "https://github.com/KevinDM15/KevDots/archive/refs/tags/v1.0.1.tar.gz"
+  sha256 "1fe42877b984e0425639579f9df2cb81af03c8b157063c67f7cc8c26ef60ee7b"
   license "MIT"
 
   depends_on "git"
